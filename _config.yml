@@ -20,5 +20,5 @@ defaults:
     type: pages
   values:
     layout: page
-remote_theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: longpdo/neumorphism
 permalink: pretty

@@ -5,6 +5,9 @@ collections:
   posts:
     title: Posts
     output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -20,4 +23,4 @@ defaults:
 remote_theme: longpdo/neumorphism
 permalink: pretty
 github_username: Fyrestead
-typing_text: "We're flixbile so you don't have to be"
+typing_text: We're flixbile so you don't have to be

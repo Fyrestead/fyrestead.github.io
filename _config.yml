@@ -1,26 +1,4 @@
 ---
 theme: jekyll-theme-tactile
 title: Fyrestead - IT Support Solutions
-timezone: America/New_York
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
-github_username: Fyrestead
-typing_text: We're flixbile so you don't have to be
+description: description from config

@@ -1,16 +1,20 @@
-You tell us how you work best, we'll build the right solution to keep you productive.
+Does your technology let you work? Or does it make you work?
+Technology is supposed to improve productivity. But if you spend your time adapting your workflow to fit
+the tools, you're likely missing out on the leverage they promise.
 
 ## System Engineering
 
 <span class="button">Let's Build!</span>
 
-We will build networks, suggest hardware, and create software to improve productivity, protect your assets, and support business continuity.
+We design systems to support your methods and processes. PCs, mobile devices, networks, customizations to
+software, and even custom software are all within reach to keep you on-track with your work.
 
 ## Monitoring
 
 <span class="button">Let's See</span>
 
-Detect intrusion attempts and insider threats.
+Threats can derail entire companies. By detecting intrusion attempts, we stay ahead of the latest techniques
+used by attackers. Insider threats
 
 ## Technical Support
 

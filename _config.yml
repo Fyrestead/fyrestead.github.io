@@ -1,4 +1,5 @@
 ---
+theme: tactile
 title: Fyrestead - IT Support Solutions
 timezone: America/New_York
 collections:
@@ -20,7 +21,6 @@ defaults:
     type: pages
   values:
     layout: page
-remote_theme: longpdo/neumorphism
 permalink: pretty
 github_username: Fyrestead
 typing_text: We're flixbile so you don't have to be
